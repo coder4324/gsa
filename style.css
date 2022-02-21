@@ -1,0 +1,53 @@
+h1 {
+  color: gold;
+}
+
+body {
+  background-color: #000861;
+}
+button {
+  background-color: red;
+}
+a {
+  color: rgb(229, 255, 0);
+
+}
+h2 {
+  color: yellow;
+  font-family: Helvetica;
+}
+li {
+  color: white;
+}
+.Titledude {
+  position: static;
+}
+.GoldenLogo {
+  height: 150px;
+}
+div.box {
+  text-align: center;
+}
+div.text {
+  text-align: center;
+  font-size: 45px;
+  font-family: Impact;
+}
+div.Rules {
+  text-align: center;
+  font-family: Helvetica;
+}
+div.ihateblacktext {
+  color: gold;
+}
+div.RulesTitle {
+  text-align: center;
+}
+div.Forms {
+  color: chocolate;
+  text-align: center;
+ box-sizing: 16px;
+}
+div.About {
+  color: gold;
+}
